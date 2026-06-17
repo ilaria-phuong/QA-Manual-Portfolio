@@ -1,4 +1,4 @@
-Bienvenue sur mon portfolio QA manuel. Testeuse QA manuelle certifiée ISTQB.
+Bienvenue sur mon portfolio QA manuel. Testeuse QA manuelle certifiée ISTQB, rigoureuse et axée sur l’expérience utilisateur.
 
 - Compétences: 
 

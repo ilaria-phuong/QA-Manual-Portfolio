@@ -1,30 +1,30 @@
-Bienvenue sur mon portfolio QA manuel. Testeuse QA manuelle certifiée ISTQB, rigoureuse et axée sur l’expérience utilisateur.
+#Bienvenue sur mon portfolio QA manuel. Testeuse QA manuelle certifiée ISTQB, rigoureuse et axée sur l’expérience utilisateur.
 
-- Compétences: 
+- **Compétences:**
 
-Conception de plans de test
+ Conception de plans de test
 
-Création de cas de test
+ Création de cas de test
 
-Exécution de tests fonctionnels
+ Exécution de tests fonctionnels
 
-Identification et suivi des anomalies
+ Identification et suivi des anomalies
 
-Tests de recette utilisateur
+ Tests de recette utilisateur
 
-Rédaction de rapports de bugs
+ Rédaction de rapports de bugs
 
-- Outils: 
+- **Outils:** 
 
-Jira
+ Jira
 
-Excel
+ Excel
 
-Postman (API)
+ Postman (API)
 
-MySQL
+ MySQL
 
-- Projets
+- **Projets**
 
 Ecommerce Testing: Simulation complète des tests d'un parcours utilisateur e-commerce.
 
